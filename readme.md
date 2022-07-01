@@ -18,5 +18,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 4) To check if docker is working correctly(i.e.the backend should be running and able to connect to your local database), test it by visiting http://localhost:3000/api/ping
 5) Now, to check if the frontend is connected to the backend, go to http://localhost:3001/register and create a new user
 
-AND THE SETUP IS COMPLET, UP AND RUNNING!!!
+AND THE SETUP IS COMPLETE, UP AND RUNNING!!!
             
